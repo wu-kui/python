@@ -9,3 +9,4 @@ s.send('quit')
 
 print 'asdf'
 print '2'
+print '3'
